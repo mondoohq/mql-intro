@@ -173,7 +173,7 @@
 	margin: var(--r-block-margin) auto;
 
 	text-align: left;
-	font-size: 0.55em;
+	font-size: 0.49em;
 	font-family: var(--r-code-font);
 	line-height: 1.2em;
 
@@ -249,11 +249,11 @@
 	display: inline-block;
 	font-size: 0.6em;
 	line-height: 1.2em;
-	vertical-align: top;
+	vertical-align: baseline;
 }
 
 .reveal small * {
-	vertical-align: top;
+	vertical-align: baseline;
 }
 
 .reveal img {
